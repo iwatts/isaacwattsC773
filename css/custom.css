@@ -1,0 +1,74 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css");
+
+.primary-background {
+    background-color: #003B6D;
+}
+.secondary-background {
+    background-color: #676767;
+}
+.white-background {
+    background-color: white !important;
+}
+
+.footer-section {
+    background-color: black;
+}
+.btn-primar y{
+    color: #6699CC !important;
+}
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.nav-static a.active {
+    color: #6699CC;
+}
+.nav-static  .nav-item {
+    padding-top: 5px;
+}
+.nav-static .nav-item.nav-hover:hover {
+    background-color: #6699CC;
+    transition: background-color 0.8s;
+}
+.nav-static a {
+    color: white !important;
+}
+.no-spacing {
+    margin: 0;
+    padding: 0;
+}
+.card-img-overlay {
+    background-color: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    transition: background-color 0.8s, color 0.8s;
+}
+.card-img-overlay:hover {
+    color: #003B6D;
+    background-color: rgba(255, 255, 255, 0.7);
+}
+.social-list li.list-group-item {
+    background: none;
+}
+
+.facebook-button {
+    background-color: #3b5998;
+    color: white;
+}
+.twitter-button {
+    background-color: #55acee;
+    color: white;
+}
+.instagram-button {
+    background-color: #ac2bac;
+    color: white;
+}
+
+a.btn.btn-primary.btn-lg {
+    background-color: #003B6D;
+}
+
+a.btn.btn-primary.btn-lg:hover {
+    background-color: #6699CC;
+}
