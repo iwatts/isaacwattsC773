@@ -45,6 +45,10 @@ hr.form-section {
     transition: background-color 0.8s;
 }
 
+.nav-static .nav-item.nav-hover.active {
+    background-color: #6699CC;
+}
+
 .nav-static a {
     color: white !important;
 }
